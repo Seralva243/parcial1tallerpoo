@@ -1,4 +1,4 @@
-<!-- # parcial1tallerpoo
+# parcial1tallerpoo
 
 Parte A. Conceptos y lectura de código
 1) Selección múltiple
